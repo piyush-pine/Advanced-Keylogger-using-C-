@@ -1,6 +1,4 @@
-Certainly! Here’s a comprehensive, professional description for your repository, complete with a Table of Contents for easy navigation. You can use this as your README.md or project overview.
 
----
 
 # Advanced Keylogger using C++
 
