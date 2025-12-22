@@ -1,6 +1,6 @@
 
 
-# Advanced Keylogger using C++
+# Advanced Keylogger using C++.
 
 A powerful, customizable, and secure keylogging tool for Windows, developed in C++. Designed for ethical hacking, penetration testing, and parental monitoring (with proper authorization), this project demonstrates advanced techniques in stealth operation, secure data handling, and automated reporting.
 
